@@ -8,7 +8,7 @@ public class PackageNameTest {
         String str =" 옥슬이";
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello world");
-
+        System.out.println("저장하고싶어");
 
     }
 }
