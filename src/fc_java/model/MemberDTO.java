@@ -5,4 +5,6 @@ public class MemberDTO {
     private int age;
     public String phone;
 
+    public void play() {
+    }
 }

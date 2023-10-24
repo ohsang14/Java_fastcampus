@@ -8,5 +8,6 @@ public class AccessModifier {
         dto.name = "길동이";
         dto.phone = "010-2746-0094";
         System.out.println(dto.name+"\t"+dto.phone);
+        dto.play();
     }
 }
