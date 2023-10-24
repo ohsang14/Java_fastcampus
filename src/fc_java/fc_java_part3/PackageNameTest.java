@@ -1,5 +1,7 @@
 package fc_java.fc_java_part3;
 
+import fc_java.model.CarDTO;
+
 import java.util.Scanner;
 
 public class PackageNameTest {
@@ -8,7 +10,8 @@ public class PackageNameTest {
         String str =" 옥슬이";
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello world");
-        System.out.println("저장하고싶어");
+        // 우리가 직접 만들어서 사용해 본 클래스들의 이름을 적어보자?
+        CarDTO car = new CarDTO();
 
     }
 }
