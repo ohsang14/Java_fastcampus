@@ -5,7 +5,6 @@ public class Person {
     public String name;
     public int age;
     public String phone;
-
     // 기본 생성자 메서드
     public Person(){
 
