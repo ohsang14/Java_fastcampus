@@ -17,5 +17,6 @@ public class StudentArrayTest {
                 System.out.println(st.toString());
             }
         }
+        System.out.println(" git commit");
     }
 }
